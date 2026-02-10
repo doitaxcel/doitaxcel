@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Axcel
 
 🚀 Aspiring **Software Engineer**  
+
 📚 Currently studying and mastering **web page & web app development**
+
 🗒️ Firm believer in **Slowly but Surely** 
 
 I enjoy building things for the web, learning new technologies, and leveling up my skills one project at a time.
@@ -10,9 +12,10 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 
 ## 🔗 Profile Links
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram]
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)][X]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+
 
 [Instagram]: https://www.instagram.com/iiaxcel_/  
 [X]: https://x.com/iiAxcel
