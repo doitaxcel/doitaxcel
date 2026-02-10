@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Axcel
 
 🚀 Aspiring **Software Engineer**  
-📚 Currently studying and mastering **web page & web app development*
+📚 Currently studying and mastering **web page & web app development**
 🗒️ Firm believer in **Slowly but Surely** 
 
 I enjoy building things for the web, learning new technologies, and leveling up my skills one project at a time.
