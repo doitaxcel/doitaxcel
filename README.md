@@ -8,6 +8,8 @@
 
 I enjoy building things for the web, learning new technologies, and leveling up my skills one project at a time.
 
+Now, I am currently learning **React** and **Typescript**
+
 ---
 
 ## 🔗 Profile Links
@@ -47,7 +49,6 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 ---
