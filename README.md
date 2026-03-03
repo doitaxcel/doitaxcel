@@ -1,14 +1,12 @@
 # 👋 Hi, I’m Axcel
 
-🚀 Aspiring **Software Engineer**  
+🚀**Web Developer** in the making | Aspiring **Software Engineer**  
 
-📚 Currently studying and mastering **web page & web app development**
+📚 Now, I am currently learning **React** and **Typescript** for my frontend skills
 
 🗒️ Firm believer in **Slowly but Surely** 
 
 I enjoy building things for the web, learning new technologies, and leveling up my skills one project at a time.
-
-Now, I am currently learning **React** and **Typescript**
 
 ---
 
@@ -53,4 +51,4 @@ Now, I am currently learning **React** and **Typescript**
 
 ---
 
-> *Always learning.*
+> *Always learning. Always building. Always improving.*
