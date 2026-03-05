@@ -2,7 +2,7 @@
 
 🚀**Web Developer** in the making | Aspiring **Software Engineer**  
 
-📚 Now, I am currently learning **React** and **Typescript** for my frontend skills
+📚 Now, I am currently learning and mastering **React** and **Typescript** for my frontend skills
 
 🗒️ Firm believer in **Slowly but Surely** 
 
@@ -31,6 +31,7 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### 🛠️ Tools & Technologies
@@ -43,7 +44,6 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 
 
 ### 📌 Planning to Learn
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
