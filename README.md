@@ -36,6 +36,8 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 
 ### 🛠️ Tools & Technologies
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
@@ -44,7 +46,8 @@ I enjoy building things for the web, learning new technologies, and leveling up 
 
 
 ### 📌 Planning to Learn
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
