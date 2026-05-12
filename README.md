@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Axcel
 
-🚀**Web Developer** in the making | Aspiring **Software Engineer**  
+🚀 **Web Developer** in the making | Aspiring **Software Engineer**  
 
 📚 Now, I am currently learning and mastering **React** and **Typescript** for my frontend skills
 
